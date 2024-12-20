@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Understand advanced tree algorithms.\nSolve 3 advanced tree problems.
+DURATION:PT2H
+DTSTART:20250101T175631Z
+SUMMARY:Trees - Advanced
+UID:76ee14f9-50df-4f88-8c56-d599bf68943e@76ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Review NeetCode's video explanations on arrays and hashing.\nSolve 2-3 problems from the 'Arrays & Hashing' section.
+DURATION:PT2H
+DTSTART:20241219T175631Z
+SUMMARY:Arrays & Hashing
+UID:e9c15972-2c18-4e64-b2af-7d0a64119794@e9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Study advanced graph algorithms.\nSolve 3 advanced graph problems.
+DURATION:PT2H
+DTSTART:20250109T175631Z
+SUMMARY:Graphs - Advanced
+UID:2928b711-71bb-418f-b185-6957212ff9f6@2928.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Review binary search concepts.\nSolve 3 binary search problems.
+DURATION:PT2H
+DTSTART:20241226T175631Z
+SUMMARY:Binary Search
+UID:35fb8194-1d29-41ba-8865-7884f821b4ce@35fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Review Week 2 topics.\nRevisit challenging problems.\nSolve 2 new problems from any covered topic.
+DURATION:PT2H
+DTSTART:20250107T175631Z
+SUMMARY:Review & Practice (Week 2)
+UID:ab4b6e6c-33a1-4b23-bfb4-a9d1d93f97f8@ab4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn backtracking strategies.\nSolve 3 backtracking problems.
+DURATION:PT2H
+DTSTART:20250103T175631Z
+SUMMARY:Backtracking
+UID:a1727991-bdad-472c-bcda-ae38459afeae@a172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn graph representations and traversals.\nSolve 3 graph problems.
+DURATION:PT2H
+DTSTART:20250108T175631Z
+SUMMARY:Graphs - Basics
+UID:aa5320ee-6687-4c3b-8a1e-f99ca76dc04a@aa53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn advanced DP strategies.\nSolve 3 advanced DP problems.
+DURATION:PT2H
+DTSTART:20250113T175631Z
+SUMMARY:Dynamic Programming (DP) - Advanced
+UID:5cd4a170-880c-464a-9bd6-f2b3bb6dff0a@5cd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Watch NeetCode's DP explanations.\nSolve 3 basic DP problems.
+DURATION:PT2H
+DTSTART:20250110T175631Z
+SUMMARY:Dynamic Programming (DP) - Basics
+UID:fb485b7f-4005-4b80-942c-edf430b193a4@fb48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Understand queue operations and their uses.\nSolve 3 queue problems.
+DURATION:PT2H
+DTSTART:20241225T175631Z
+SUMMARY:Queues
+UID:23d1524a-6978-4fe0-bcfd-1dfb086d0a4a@23d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Watch tutorials on two-pointer methods.\nSolve 3 two-pointer problems.
+DURATION:PT2H
+DTSTART:20241220T175631Z
+SUMMARY:Two Pointers
+UID:11caf821-4c3c-49d6-a041-db1932c1ad23@11ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Study sliding window strategies.\nSolve 3 sliding window problems.
+DURATION:PT2H
+DTSTART:20241223T175631Z
+SUMMARY:Sliding Window
+UID:b44cec52-5c19-48d1-abce-e4b0fc8b46ad@b44c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Study heap operations.\nSolve 3 heap-related problems.
+DURATION:PT2H
+DTSTART:20250106T175631Z
+SUMMARY:Heaps & Priority Queue
+UID:d342f80e-e2b9-49d0-bfe4-7db79bc0f8ab@d342.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Study NeetCode's explanations on stack operations.\nSolve 3 stack problems.
+DURATION:PT2H
+DTSTART:20241224T175631Z
+SUMMARY:Stacks
+UID:84ab2b5c-1622-42f0-ac60-a2f8c5fd58fc@84ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Watch NeetCode's linked list tutorials.\nSolve 3 linked list problems.
+DURATION:PT2H
+DTSTART:20241230T175631Z
+SUMMARY:Linked List
+UID:84dadec6-3f89-4993-85db-bd2b07f7297a@84da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn tree traversal methods.\nSolve 3 basic tree problems.
+DURATION:PT2H
+DTSTART:20241231T175631Z
+SUMMARY:Trees - Basics
+UID:118f225a-f320-449f-b4b0-80df1abb74d3@118f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Understand greedy strategies.\nSolve 3 greedy algorithm problems.
+DURATION:PT2H
+DTSTART:20250114T175631Z
+SUMMARY:Greedy Algorithms
+UID:97b3313b-6261-4c11-b7ff-be11b3f3b480@97b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Review all notes and problem solutions.\nIdentify weak areas.\nTake a timed assessment with problems from different topics.
+DURATION:PT2H
+DTSTART:20250116T175631Z
+SUMMARY:Final Review & Mock Assessment
+UID:d15547c7-9f10-4c18-abe3-20c84418a83a@d155.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Review Week 1 topics.\nRevisit challenging problems.\nSolve 2 new problems from any covered topic.
+DURATION:PT2H
+DTSTART:20241227T175631Z
+SUMMARY:Review & Practice (Week 1)
+UID:4b280244-345a-420e-bdce-30ec515f0e62@4b28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Learn interval-related problem-solving techniques.\nSolve 3 interval problems.
+DURATION:PT2H
+DTSTART:20250115T175631Z
+SUMMARY:Intervals
+UID:66a6c62e-1f35-4f94-ab49-8528ca048387@66a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Study NeetCode's videos on tries.\nSolve 2 trie-related problems.
+DURATION:PT2H
+DTSTART:20250102T175631Z
+SUMMARY:Tries
+UID:ad273b5f-7d22-4eaa-9efd-0f48ac68bad7@ad27.org
+END:VEVENT
+END:VCALENDAR
